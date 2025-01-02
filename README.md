@@ -31,7 +31,7 @@ Certification in Data Science
 Besant Technologies, Porur
 ## 📫 How to reach me
 
-- **Email:** [your-email@example.com](mailto:vigneshptheanalyst@gmail.com)
+- **Email:** [your-vigneshptheanalyst@gmail.com](mailto:vigneshptheanalyst@gmail.com)
 - **LinkedIn:** [linkedin.com/in/vigneshtheanalyst](https://www.linkedin.com/in/vigneshtheanalyst@gmail.com/)
 - **GitHub:** [github.com/Vigneshtheanalyst](https://github.com/Vigneshtheanalyst)
 .
