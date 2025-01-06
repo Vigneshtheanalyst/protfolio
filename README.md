@@ -32,7 +32,7 @@ Besant Technologies, Porur
 ## 📫 How to reach me
 
 - **Email:** [vigneshptheanalyst@gmail.com](mailto:vigneshptheanalyst@gmail.com)
-- **LinkedIn:** [linkedin.com/in/vigneshtheanalyst]([https://www.linkedin.com/in/vigneshtheanalyst@gmail.com/](https://www.linkedin.com/in/vignesh-p-a9a136339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **LinkedIn:** [linkedin.com/in/vigneshtheanalyst](https://www.linkedin.com/in/vignesh-p-analyst)
 - **GitHub:** [github.com/Vigneshtheanalyst](https://github.com/Vigneshtheanalyst)
 .
 
