@@ -13,10 +13,10 @@ lytical Data Analyst with hands-on experience in SQL, Python, Power BI, and MySQ
 
 ## 📊 Projects
 
-### [Project 1: Sales Data Analysis By Using Power Bi](https://github.com/Vigneshtheanalyst/power-bi-project.git)
+### [Project 1: AdventureWorks Company Analysis](https://github.com/Vigneshtheanalyst/power-bi-project.git)
 Designed interactive dashboards to visualize sales trends and key performance indicators,Used DAX to create measures for deeper insights.
 
-### [Project 2: Sales Data Analysis By Using SQL](https://github.com/Vigneshtheanalyst/customer-segmentation)
+### [Project 2: Sales Data Analysis By Using SQL](https://github.com/Vigneshtheanalyst/SQL-project.git)
 Used clustering techniques to segment customers based on purchasing behavior, enabling targeted marketing campaigns.
 
 ### [Project 3: Coffee Order Data Analysis By Using Excel  ](https://github.com/Vigneshtheanalyst/predictive-modeling)
