@@ -12,7 +12,7 @@ Detail-oriented and analytical Data Analyst with hands-on experience in SQL, Pyt
 
 ## 📊 Projects
 
-### [Project 1: Sales Data Analysis By Using Power Bi](https://github.com/Vigneshtheanalyst/sales-data-analysis)
+### [Project 1: Sales Data Analysis By Using Power Bi](AdventureWorks Report_FINAL (1).pbix)
 Designed interactive dashboards to visualize sales trends and key performance indicators,Used DAX to create measures for deeper insights.
 
 ### [Project 2: Sales Data Analysis By Using SQL](https://github.com/Vigneshtheanalyst/customer-segmentation)
