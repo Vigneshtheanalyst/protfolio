@@ -21,7 +21,7 @@ Used clustering techniques to segment customers based on purchasing behavior, en
 ### [Project 3: Coffee Order Data Analysis By Using Excel  ](https://github.com/Vigneshtheanalyst/predictive-modeling)
 Developed predictive models to forecast future sales, helping the business to make data-driven decisions.
 
-## 🌱 Education
+##  Education
 
 B.Sc. in Computer Science
 [DR,MGR Eduction And Research Institute], [Chennai]
@@ -31,8 +31,8 @@ Certification in Data Science
 Besant Technologies, Porur
 ## 📫 How to reach me
 
-- **Email:** [your-vigneshptheanalyst@gmail.com](mailto:vigneshptheanalyst@gmail.com)
-- **LinkedIn:** [linkedin.com/in/vigneshtheanalyst](https://www.linkedin.com/in/vigneshtheanalyst@gmail.com/)
+- **Email:** [vigneshptheanalyst@gmail.com](mailto:vigneshptheanalyst@gmail.com)
+- **LinkedIn:** [linkedin.com/in/vigneshtheanalyst]([https://www.linkedin.com/in/vigneshtheanalyst@gmail.com/](https://www.linkedin.com/in/vignesh-p-a9a136339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - **GitHub:** [github.com/Vigneshtheanalyst](https://github.com/Vigneshtheanalyst)
 .
 
