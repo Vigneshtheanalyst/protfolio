@@ -1,14 +1,15 @@
 # vignesh-protfolio
 # Hi there, I'm Vignesh! 👋
 
-Detail-oriented and analytical Data Analyst with hands-on experience in SQL, Python, Power BI, and MySQL. Proficient in extracting, analyzing, and interpreting data to provide actionable insights for business growth. Adept at leveraging statistical analysis and visualization tools to solve complex problems. Pursuing a B.Sc. in Computer Science with a strong foundation in data analytics and a proven track record in delivering impactful projects.
+Detail-oriented and ana
+lytical Data Analyst with hands-on experience in SQL, Python, Power BI, and MySQL. Proficient in extracting, analyzing, and interpreting data to provide actionable insights for business growth. Adept at leveraging statistical analysis and visualization tools to solve complex problems. Pursuing a B.Sc. in Computer Science with a strong foundation in data analytics and a proven track record in delivering impactful projects.
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, SQL
 - **Tools:**  Power BI, Excel
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn,
-- **Databases:** MySQL, 
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Databases:** MySQL,
 
 ## 📊 Projects
 
